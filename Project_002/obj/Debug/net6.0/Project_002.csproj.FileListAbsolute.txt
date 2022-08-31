@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Projects\Project_002\obj\Debug\net6.0\Project_002.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Projects\Project_002\obj\Debug\net6.0\Project_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Projects\Project_002\obj\Debug\net6.0\Project_002.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Projects\Project_002\obj\Debug\net6.0\Project_002.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Projects\Project_002\obj\Debug\net6.0\Project_002.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Projects\Project_002\bin\Debug\net6.0\Project_002.exe
+C:\Users\Администратор\Desktop\Projects\Project_002\bin\Debug\net6.0\Project_002.deps.json
+C:\Users\Администратор\Desktop\Projects\Project_002\bin\Debug\net6.0\Project_002.runtimeconfig.json
+C:\Users\Администратор\Desktop\Projects\Project_002\bin\Debug\net6.0\Project_002.dll
+C:\Users\Администратор\Desktop\Projects\Project_002\bin\Debug\net6.0\Project_002.pdb
+C:\Users\Администратор\Desktop\Projects\Project_002\obj\Debug\net6.0\Project_002.dll
+C:\Users\Администратор\Desktop\Projects\Project_002\obj\Debug\net6.0\refint\Project_002.dll
+C:\Users\Администратор\Desktop\Projects\Project_002\obj\Debug\net6.0\Project_002.pdb
+C:\Users\Администратор\Desktop\Projects\Project_002\obj\Debug\net6.0\Project_002.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Projects\Project_002\obj\Debug\net6.0\ref\Project_002.dll
