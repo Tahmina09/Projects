@@ -8,9 +8,9 @@
 // Console.WriteLine("Введите третье число:");
 // int n3= Convert.ToInt32(Console.ReadLine());
 // int sum=0;
-// if (n1%2==0) sum+=n1;
-// if (n2%2==0) sum+=n2;
-// if (n3%2==0) sum+=n3;
+// if (n1>0) sum+=n1;
+// if (n2>0) sum+=n2;
+// if (n3>0) sum+=n3;
 // Console.WriteLine(sum);
 
 Console.Clear();
@@ -22,7 +22,7 @@ int [] sumPositive= {n1, n2, n3};
 int sum=0;
 for(int i=0; i<sumPositive.Length; i++)
 {
-    if(sumPositive[i]%2==0)
+    if(sumPositive[i]>0)
     {
         sum+=sumPositive[i];
     }
